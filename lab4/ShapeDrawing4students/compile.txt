@@ -1,0 +1,1 @@
+g++ -std=c++1z main.cpp circle.cpp rectangle.cpp shape.cpp shapecomposite.cpp ShapesTests.cpp utils/argumentParsing.cc utils/programmersDetails.cc utils/memoryManagement.cpp stage.h -o kolokwium -lgtest -lpthread
